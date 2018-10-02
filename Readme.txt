@@ -1,3 +1,3 @@
-This is Readme file
-Hello
-2018.09.21
+readme file
+창의공학기초설계 수업 과제입니다.
+2018.10.03
